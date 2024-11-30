@@ -1,2 +1,1 @@
-# Secure_MailBox
-Secure Mail Box is a secure messaging service
+Ваше ожидания оправдались! Представляю вам крупно масштабный проект Secure MailBox!
